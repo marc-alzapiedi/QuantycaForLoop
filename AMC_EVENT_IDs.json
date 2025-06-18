@@ -1,0 +1,4997 @@
+[
+ {
+  "ACMEventID": 146741582,
+  "GeneratingEventID": 142947774,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146746755,
+  "GeneratingEventID": 143719159,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146755771,
+  "GeneratingEventID": 143737342,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146755921,
+  "GeneratingEventID": 143737225,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146897533,
+  "GeneratingEventID": 143195864,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146907419,
+  "GeneratingEventID": 142696477,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 146938549,
+  "GeneratingEventID": 143018037,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146965047,
+  "GeneratingEventID": 143881169,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146967821,
+  "GeneratingEventID": 143170048,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146967822,
+  "GeneratingEventID": 143170048,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147063987,
+  "GeneratingEventID": 143170048,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147112188,
+  "GeneratingEventID": 145345724,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147112190,
+  "GeneratingEventID": 145345724,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147112192,
+  "GeneratingEventID": 143170048,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147112288,
+  "GeneratingEventID": 145345724,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147112290,
+  "GeneratingEventID": 143170048,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147113479,
+  "GeneratingEventID": 144197627,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147113482,
+  "GeneratingEventID": 144197627,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147114790,
+  "GeneratingEventID": 145345724,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147114791,
+  "GeneratingEventID": 143170048,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147127526,
+  "GeneratingEventID": 146672341,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147127527,
+  "GeneratingEventID": 143739489,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147133217,
+  "GeneratingEventID": 145042597,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147168825,
+  "GeneratingEventID": 144105680,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147174029,
+  "GeneratingEventID": 143718817,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147188125,
+  "GeneratingEventID": 143746756,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147188721,
+  "GeneratingEventID": 142114169,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147193183,
+  "GeneratingEventID": 147193025,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147195946,
+  "GeneratingEventID": 140947376,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147199839,
+  "GeneratingEventID": 142163225,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228292,
+  "GeneratingEventID": 143415780,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228421,
+  "GeneratingEventID": 142549483,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228495,
+  "GeneratingEventID": 142550289,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228523,
+  "GeneratingEventID": 143213983,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228548,
+  "GeneratingEventID": 145668019,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228552,
+  "GeneratingEventID": 143238923,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228710,
+  "GeneratingEventID": 142549967,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228723,
+  "GeneratingEventID": 143589594,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228743,
+  "GeneratingEventID": 143732759,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228801,
+  "GeneratingEventID": 145821550,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228835,
+  "GeneratingEventID": 145611260,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228884,
+  "GeneratingEventID": 143732244,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228892,
+  "GeneratingEventID": 143550234,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147229034,
+  "GeneratingEventID": 145666820,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147364472,
+  "GeneratingEventID": 142454767,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147383465,
+  "GeneratingEventID": 143553750,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147410054,
+  "GeneratingEventID": 142931232,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147423382,
+  "GeneratingEventID": 140982615,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147578287,
+  "GeneratingEventID": 133829305,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147675371,
+  "GeneratingEventID": 136640616,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147751575,
+  "GeneratingEventID": 141869241,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147751641,
+  "GeneratingEventID": 139953454,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147887905,
+  "GeneratingEventID": 143167103,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147887906,
+  "GeneratingEventID": 143166956,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147923357,
+  "GeneratingEventID": 143512778,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148099266,
+  "GeneratingEventID": 142492336,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148099266,
+  "GeneratingEventID": 142492335,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148146232,
+  "GeneratingEventID": 142964468,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148153217,
+  "GeneratingEventID": 141881270,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148153330,
+  "GeneratingEventID": 141359286,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148161476,
+  "GeneratingEventID": 142554288,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148162504,
+  "GeneratingEventID": 144200043,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148162505,
+  "GeneratingEventID": 143850099,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148183026,
+  "GeneratingEventID": 142284066,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148194764,
+  "GeneratingEventID": 142804242,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148208648,
+  "GeneratingEventID": 140977856,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148416199,
+  "GeneratingEventID": 143740727,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148423244,
+  "GeneratingEventID": 143656714,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148423244,
+  "GeneratingEventID": 143656713,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148423271,
+  "GeneratingEventID": 143877960,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148423271,
+  "GeneratingEventID": 143877961,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148454770,
+  "GeneratingEventID": 142798416,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148454794,
+  "GeneratingEventID": 142799066,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148475104,
+  "GeneratingEventID": 143521339,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148560736,
+  "GeneratingEventID": 124409036,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148560767,
+  "GeneratingEventID": 128710186,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148560768,
+  "GeneratingEventID": 128710520,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148560818,
+  "GeneratingEventID": 142744554,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148560821,
+  "GeneratingEventID": 128054085,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148561140,
+  "GeneratingEventID": 130361271,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148561141,
+  "GeneratingEventID": 130593942,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148561575,
+  "GeneratingEventID": 132998006,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148561576,
+  "GeneratingEventID": 133219422,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148561577,
+  "GeneratingEventID": 134525413,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148561744,
+  "GeneratingEventID": 134216981,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148561745,
+  "GeneratingEventID": 134386294,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148562240,
+  "GeneratingEventID": 143146251,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148562272,
+  "GeneratingEventID": 143749044,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148562297,
+  "GeneratingEventID": 142602326,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148562328,
+  "GeneratingEventID": 143376908,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148562477,
+  "GeneratingEventID": 142418209,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148562709,
+  "GeneratingEventID": 144040347,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148562740,
+  "GeneratingEventID": 141648608,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148562799,
+  "GeneratingEventID": 134857006,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148562941,
+  "GeneratingEventID": 143391897,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148562942,
+  "GeneratingEventID": 143147728,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148563042,
+  "GeneratingEventID": 143871462,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148563045,
+  "GeneratingEventID": 143865193,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148563592,
+  "GeneratingEventID": 142037758,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148563661,
+  "GeneratingEventID": 130620872,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148563850,
+  "GeneratingEventID": 134658673,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148563905,
+  "GeneratingEventID": 137932796,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148564277,
+  "GeneratingEventID": 128670724,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148564280,
+  "GeneratingEventID": 128670734,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148564453,
+  "GeneratingEventID": 123996464,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148564454,
+  "GeneratingEventID": 123470494,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148666200,
+  "GeneratingEventID": 145759389,
+  "GeneratingEventCode": "CMO"
+ },
+ {
+  "ACMEventID": 148666201,
+  "GeneratingEventID": 145402056,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148677511,
+  "GeneratingEventID": 144939396,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148687560,
+  "GeneratingEventID": 145388589,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148687562,
+  "GeneratingEventID": 143749490,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148698961,
+  "GeneratingEventID": 144026172,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148701202,
+  "GeneratingEventID": 143547880,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148701871,
+  "GeneratingEventID": 142245094,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148703538,
+  "GeneratingEventID": 144474230,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148703655,
+  "GeneratingEventID": 143144145,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148706796,
+  "GeneratingEventID": 143952410,
+  "GeneratingEventCode": "CMO"
+ },
+ {
+  "ACMEventID": 148706797,
+  "GeneratingEventID": 136340960,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148706798,
+  "GeneratingEventID": 135842005,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148706799,
+  "GeneratingEventID": 135010111,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148710078,
+  "GeneratingEventID": 140750527,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148741662,
+  "GeneratingEventID": 143703758,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148741682,
+  "GeneratingEventID": 144030279,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148741695,
+  "GeneratingEventID": 143907754,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148741696,
+  "GeneratingEventID": 144654183,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148741789,
+  "GeneratingEventID": 145007571,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148742992,
+  "GeneratingEventID": 143797886,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148745894,
+  "GeneratingEventID": 141885076,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148746532,
+  "GeneratingEventID": 142001509,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148750925,
+  "GeneratingEventID": 142779862,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148772079,
+  "GeneratingEventID": 139012236,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148780328,
+  "GeneratingEventID": 143310177,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148780414,
+  "GeneratingEventID": 141557339,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148780460,
+  "GeneratingEventID": 142246129,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148908506,
+  "GeneratingEventID": 142731352,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148908525,
+  "GeneratingEventID": 144924683,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149009820,
+  "GeneratingEventID": 138909984,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149015176,
+  "GeneratingEventID": 142150804,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149042820,
+  "GeneratingEventID": 141628535,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149235582,
+  "GeneratingEventID": 143496375,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149235582,
+  "GeneratingEventID": 143496374,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 149235583,
+  "GeneratingEventID": 143496560,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 149235583,
+  "GeneratingEventID": 143496562,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149246512,
+  "GeneratingEventID": 130086634,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149257886,
+  "GeneratingEventID": 138888789,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149257925,
+  "GeneratingEventID": 141347953,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149257938,
+  "GeneratingEventID": 140708089,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149257973,
+  "GeneratingEventID": 140717926,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149257988,
+  "GeneratingEventID": 139211008,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149257993,
+  "GeneratingEventID": 140652777,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149257994,
+  "GeneratingEventID": 141410910,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149284134,
+  "GeneratingEventID": 130641149,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149285863,
+  "GeneratingEventID": 143707363,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149285863,
+  "GeneratingEventID": 143707362,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 149315532,
+  "GeneratingEventID": 141809789,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149480074,
+  "GeneratingEventID": 143307122,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149506619,
+  "GeneratingEventID": 141664264,
+  "GeneratingEventCode": "CMO"
+ },
+ {
+  "ACMEventID": 149506620,
+  "GeneratingEventID": 139001466,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149510254,
+  "GeneratingEventID": 143930415,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149513701,
+  "GeneratingEventID": 140725263,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149534929,
+  "GeneratingEventID": 144047619,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149534930,
+  "GeneratingEventID": 144047480,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149534931,
+  "GeneratingEventID": 144042779,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149542422,
+  "GeneratingEventID": 144393150,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149542423,
+  "GeneratingEventID": 143360132,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149551514,
+  "GeneratingEventID": 143196359,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149551515,
+  "GeneratingEventID": 143196345,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149576483,
+  "GeneratingEventID": 149576460,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 149576484,
+  "GeneratingEventID": 149576464,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149681123,
+  "GeneratingEventID": 140115789,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149709011,
+  "GeneratingEventID": 143309576,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149764207,
+  "GeneratingEventID": 139507940,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149764242,
+  "GeneratingEventID": 144016122,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149771014,
+  "GeneratingEventID": 141552136,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149771016,
+  "GeneratingEventID": 141575674,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149771017,
+  "GeneratingEventID": 141575369,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149802565,
+  "GeneratingEventID": 142743007,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149878333,
+  "GeneratingEventID": 126583125,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 150066948,
+  "GeneratingEventID": 143602010,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150231347,
+  "GeneratingEventID": 141891462,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 150297635,
+  "GeneratingEventID": 134207333,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 150323420,
+  "GeneratingEventID": 142550487,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150342590,
+  "GeneratingEventID": 135836364,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150347073,
+  "GeneratingEventID": 135704689,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150359456,
+  "GeneratingEventID": 142535925,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 150359462,
+  "GeneratingEventID": 144471782,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150359462,
+  "GeneratingEventID": 144471535,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 150359557,
+  "GeneratingEventID": 144189342,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150363544,
+  "GeneratingEventID": 142964469,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 150363545,
+  "GeneratingEventID": 142965166,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150364544,
+  "GeneratingEventID": 143239506,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 150364545,
+  "GeneratingEventID": 146820452,
+  "GeneratingEventCode": "CMO"
+ },
+ {
+  "ACMEventID": 150365687,
+  "GeneratingEventID": 150365626,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 150388761,
+  "GeneratingEventID": 142507562,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150588948,
+  "GeneratingEventID": 143564247,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150625547,
+  "GeneratingEventID": 142286898,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150739640,
+  "GeneratingEventID": 143999896,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150739666,
+  "GeneratingEventID": 142972852,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150739673,
+  "GeneratingEventID": 143916434,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150739827,
+  "GeneratingEventID": 143910820,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150745925,
+  "GeneratingEventID": 144478222,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 150745925,
+  "GeneratingEventID": 144478223,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150789094,
+  "GeneratingEventID": 143915397,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150789094,
+  "GeneratingEventID": 143915395,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 150790694,
+  "GeneratingEventID": 144474550,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150790694,
+  "GeneratingEventID": 144474547,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 150851174,
+  "GeneratingEventID": 142535721,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 150862282,
+  "GeneratingEventID": 144148698,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 150862283,
+  "GeneratingEventID": 144128372,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150863799,
+  "GeneratingEventID": 144639230,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150880009,
+  "GeneratingEventID": 138424637,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151077859,
+  "GeneratingEventID": 143736406,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151082876,
+  "GeneratingEventID": 141280893,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151111571,
+  "GeneratingEventID": 145657353,
+  "GeneratingEventCode": "CMO"
+ },
+ {
+  "ACMEventID": 151111572,
+  "GeneratingEventID": 143739387,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151111574,
+  "GeneratingEventID": 143169906,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151140927,
+  "GeneratingEventID": 144042962,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151140928,
+  "GeneratingEventID": 146318605,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151319702,
+  "GeneratingEventID": 142656848,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 151319710,
+  "GeneratingEventID": 142931572,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 151319711,
+  "GeneratingEventID": 142921169,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151332713,
+  "GeneratingEventID": 143558248,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 151332714,
+  "GeneratingEventID": 143335402,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151626796,
+  "GeneratingEventID": 141789201,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151632329,
+  "GeneratingEventID": 143021608,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 151632366,
+  "GeneratingEventID": 143329896,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 151651375,
+  "GeneratingEventID": 145205494,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151651504,
+  "GeneratingEventID": 145201476,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151679844,
+  "GeneratingEventID": 143931616,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151931841,
+  "GeneratingEventID": 130813689,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 152134005,
+  "GeneratingEventID": 143861454,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 152135288,
+  "GeneratingEventID": 143861209,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 152154478,
+  "GeneratingEventID": 143678296,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 152154480,
+  "GeneratingEventID": 145177752,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 152221784,
+  "GeneratingEventID": 143860635,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 152223051,
+  "GeneratingEventID": 142370478,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 152223052,
+  "GeneratingEventID": 143418863,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 152407709,
+  "GeneratingEventID": 143925356,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 152425094,
+  "GeneratingEventID": 143433164,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 152466516,
+  "GeneratingEventID": 143879529,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 152700196,
+  "GeneratingEventID": 138456158,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 152959876,
+  "GeneratingEventID": 142969393,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 152959921,
+  "GeneratingEventID": 144052691,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 153311649,
+  "GeneratingEventID": 137068711,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 153448018,
+  "GeneratingEventID": 144726452,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 153450561,
+  "GeneratingEventID": 145575368,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 153465809,
+  "GeneratingEventID": 143919238,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 153578779,
+  "GeneratingEventID": 143593926,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 153578779,
+  "GeneratingEventID": 143593925,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 153578819,
+  "GeneratingEventID": 143876829,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 153578859,
+  "GeneratingEventID": 144851119,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 153578859,
+  "GeneratingEventID": 144851121,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 153579301,
+  "GeneratingEventID": 144001257,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 153579302,
+  "GeneratingEventID": 144001258,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 153579303,
+  "GeneratingEventID": 143987109,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 153579304,
+  "GeneratingEventID": 143987113,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 153622202,
+  "GeneratingEventID": 142679334,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 153624676,
+  "GeneratingEventID": 143327002,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 153624811,
+  "GeneratingEventID": 143686658,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 153735262,
+  "GeneratingEventID": 143854742,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 153735264,
+  "GeneratingEventID": 143908440,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 153747859,
+  "GeneratingEventID": 143906547,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 153779232,
+  "GeneratingEventID": 144196702,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 153788586,
+  "GeneratingEventID": 144422534,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 153798678,
+  "GeneratingEventID": 137212250,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 154143361,
+  "GeneratingEventID": 144420517,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 154316153,
+  "GeneratingEventID": 154316028,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 154786470,
+  "GeneratingEventID": 136903628,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 154803216,
+  "GeneratingEventID": 143878986,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 154826058,
+  "GeneratingEventID": 144419926,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 154829254,
+  "GeneratingEventID": 144008558,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 154829263,
+  "GeneratingEventID": 144008443,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 154889082,
+  "GeneratingEventID": 142583245,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 156099992,
+  "GeneratingEventID": 138639597,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 156150097,
+  "GeneratingEventID": 143732442,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 156150345,
+  "GeneratingEventID": 143422067,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 156159267,
+  "GeneratingEventID": 143797282,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 156767220,
+  "GeneratingEventID": 144034661,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 156774890,
+  "GeneratingEventID": 143762293,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 156787249,
+  "GeneratingEventID": 146020577,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 156804236,
+  "GeneratingEventID": 134687279,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 156804249,
+  "GeneratingEventID": 134845236,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 157465149,
+  "GeneratingEventID": 143669735,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 157465150,
+  "GeneratingEventID": 145184423,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 157728980,
+  "GeneratingEventID": 144539077,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 157728980,
+  "GeneratingEventID": 144539076,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 158510028,
+  "GeneratingEventID": 135832403,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 158567736,
+  "GeneratingEventID": 134344395,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 146737618,
+  "GeneratingEventID": 145555390,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146758163,
+  "GeneratingEventID": 143685708,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146763042,
+  "GeneratingEventID": 143986659,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146780261,
+  "GeneratingEventID": 142952714,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 146858599,
+  "GeneratingEventID": 145555390,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146858634,
+  "GeneratingEventID": 145555390,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146858708,
+  "GeneratingEventID": 145555390,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146858741,
+  "GeneratingEventID": 145555390,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146865635,
+  "GeneratingEventID": 145555390,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146886906,
+  "GeneratingEventID": 142995468,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 146894973,
+  "GeneratingEventID": 144787587,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 146895795,
+  "GeneratingEventID": 143889869,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 146902323,
+  "GeneratingEventID": 145555390,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146902367,
+  "GeneratingEventID": 145555390,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146902375,
+  "GeneratingEventID": 146858597,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 146902553,
+  "GeneratingEventID": 143138335,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146909276,
+  "GeneratingEventID": 143350446,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146928162,
+  "GeneratingEventID": 143749043,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146961482,
+  "GeneratingEventID": 142999718,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 146961847,
+  "GeneratingEventID": 143347957,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146963895,
+  "GeneratingEventID": 143578469,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146963897,
+  "GeneratingEventID": 143578469,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146964727,
+  "GeneratingEventID": 139201877,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146964945,
+  "GeneratingEventID": 144053210,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146965001,
+  "GeneratingEventID": 138140492,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146967747,
+  "GeneratingEventID": 142779263,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146967748,
+  "GeneratingEventID": 142779263,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146967749,
+  "GeneratingEventID": 142779263,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146967992,
+  "GeneratingEventID": 141420137,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146969282,
+  "GeneratingEventID": 143195333,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146980905,
+  "GeneratingEventID": 142850294,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147008757,
+  "GeneratingEventID": 143851579,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147011464,
+  "GeneratingEventID": 145338204,
+  "GeneratingEventCode": "CMO"
+ },
+ {
+  "ACMEventID": 147026413,
+  "GeneratingEventID": 143307563,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147063473,
+  "GeneratingEventID": 143309673,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147063474,
+  "GeneratingEventID": 143935793,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147139266,
+  "GeneratingEventID": 145722212,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147163033,
+  "GeneratingEventID": 143728880,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147168112,
+  "GeneratingEventID": 141814775,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147188722,
+  "GeneratingEventID": 141623911,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147190238,
+  "GeneratingEventID": 143018629,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147190239,
+  "GeneratingEventID": 143018629,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147190303,
+  "GeneratingEventID": 143018629,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147190439,
+  "GeneratingEventID": 143018629,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147190608,
+  "GeneratingEventID": 143018629,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147213153,
+  "GeneratingEventID": 142794366,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228352,
+  "GeneratingEventID": 143590409,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228359,
+  "GeneratingEventID": 142488686,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228417,
+  "GeneratingEventID": 143231540,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228491,
+  "GeneratingEventID": 143417607,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228587,
+  "GeneratingEventID": 143416841,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228596,
+  "GeneratingEventID": 143759744,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228632,
+  "GeneratingEventID": 143238727,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228640,
+  "GeneratingEventID": 145610161,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228770,
+  "GeneratingEventID": 143415383,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228793,
+  "GeneratingEventID": 142961551,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228797,
+  "GeneratingEventID": 143213555,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228839,
+  "GeneratingEventID": 143550024,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228963,
+  "GeneratingEventID": 143550506,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147229036,
+  "GeneratingEventID": 143416269,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147233166,
+  "GeneratingEventID": 143359058,
+  "GeneratingEventCode": "CMO"
+ },
+ {
+  "ACMEventID": 147244422,
+  "GeneratingEventID": 143212081,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147381944,
+  "GeneratingEventID": 143018629,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147411639,
+  "GeneratingEventID": 141898172,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147428803,
+  "GeneratingEventID": 143018629,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147429586,
+  "GeneratingEventID": 141403161,
+  "GeneratingEventCode": "CMO"
+ },
+ {
+  "ACMEventID": 147489388,
+  "GeneratingEventID": 143018629,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147489413,
+  "GeneratingEventID": 143018629,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147490456,
+  "GeneratingEventID": 143018629,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147519213,
+  "GeneratingEventID": 143726628,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147597101,
+  "GeneratingEventID": 143018629,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147597155,
+  "GeneratingEventID": 143018629,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147597166,
+  "GeneratingEventID": 143018629,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147597172,
+  "GeneratingEventID": 143018629,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147602727,
+  "GeneratingEventID": 143018629,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147725820,
+  "GeneratingEventID": 143018629,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147818290,
+  "GeneratingEventID": 143018629,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147818625,
+  "GeneratingEventID": 143018629,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147818649,
+  "GeneratingEventID": 143018629,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147818666,
+  "GeneratingEventID": 143018629,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147877168,
+  "GeneratingEventID": 141896967,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147877706,
+  "GeneratingEventID": 143402027,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147877707,
+  "GeneratingEventID": 143402027,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147879183,
+  "GeneratingEventID": 143402027,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147890789,
+  "GeneratingEventID": 143209575,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147895973,
+  "GeneratingEventID": 143018632,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147898971,
+  "GeneratingEventID": 143402028,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147901495,
+  "GeneratingEventID": 145471646,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147923165,
+  "GeneratingEventID": 144472244,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147923167,
+  "GeneratingEventID": 144472065,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148012824,
+  "GeneratingEventID": 142209137,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148012825,
+  "GeneratingEventID": 142036817,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148012936,
+  "GeneratingEventID": 143013665,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148099289,
+  "GeneratingEventID": 143993647,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148099290,
+  "GeneratingEventID": 146226518,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148135421,
+  "GeneratingEventID": 143488693,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148153179,
+  "GeneratingEventID": 142498534,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148153180,
+  "GeneratingEventID": 144096411,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148153340,
+  "GeneratingEventID": 142106636,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148153400,
+  "GeneratingEventID": 136837342,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148162451,
+  "GeneratingEventID": 142923227,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148162453,
+  "GeneratingEventID": 144826921,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148162454,
+  "GeneratingEventID": 144123043,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148162457,
+  "GeneratingEventID": 144826912,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148162458,
+  "GeneratingEventID": 144123436,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148192030,
+  "GeneratingEventID": 143225386,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148207115,
+  "GeneratingEventID": 147519032,
+  "GeneratingEventCode": "CMO"
+ },
+ {
+  "ACMEventID": 148207117,
+  "GeneratingEventID": 142728324,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148226394,
+  "GeneratingEventID": 143983866,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148247860,
+  "GeneratingEventID": 143601456,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148391659,
+  "GeneratingEventID": 143017641,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148398817,
+  "GeneratingEventID": 142600722,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148407274,
+  "GeneratingEventID": 143913771,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148407274,
+  "GeneratingEventID": 143913702,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148407275,
+  "GeneratingEventID": 143913704,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148407275,
+  "GeneratingEventID": 143913757,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148415092,
+  "GeneratingEventID": 144880822,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148420299,
+  "GeneratingEventID": 142568871,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148424717,
+  "GeneratingEventID": 143351028,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148455430,
+  "GeneratingEventID": 144407540,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148455431,
+  "GeneratingEventID": 144388602,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148455480,
+  "GeneratingEventID": 143876606,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148455481,
+  "GeneratingEventID": 143826558,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148455537,
+  "GeneratingEventID": 142635439,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148463960,
+  "GeneratingEventID": 141433938,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148476844,
+  "GeneratingEventID": 144304023,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148476844,
+  "GeneratingEventID": 144304022,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148483462,
+  "GeneratingEventID": 142968880,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148483462,
+  "GeneratingEventID": 142968881,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148560565,
+  "GeneratingEventID": 141217779,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148560572,
+  "GeneratingEventID": 140944448,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148560691,
+  "GeneratingEventID": 125742611,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148560944,
+  "GeneratingEventID": 124751368,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148561663,
+  "GeneratingEventID": 142995469,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148561885,
+  "GeneratingEventID": 135485763,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148562180,
+  "GeneratingEventID": 142782230,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148562212,
+  "GeneratingEventID": 141118736,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148562237,
+  "GeneratingEventID": 144012024,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148562258,
+  "GeneratingEventID": 144591783,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148562316,
+  "GeneratingEventID": 142263987,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146739925,
+  "GeneratingEventID": 144467417,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 146751301,
+  "GeneratingEventID": 140963772,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 146752284,
+  "GeneratingEventID": 144317122,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146752284,
+  "GeneratingEventID": 144317121,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 146752285,
+  "GeneratingEventID": 144317121,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 146752285,
+  "GeneratingEventID": 144317122,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146752286,
+  "GeneratingEventID": 144317122,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146752286,
+  "GeneratingEventID": 144317121,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 146752287,
+  "GeneratingEventID": 144317121,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 146752287,
+  "GeneratingEventID": 144317122,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146752302,
+  "GeneratingEventID": 144020056,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146752872,
+  "GeneratingEventID": 144317122,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146752872,
+  "GeneratingEventID": 144317121,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 146752873,
+  "GeneratingEventID": 144317121,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 146752873,
+  "GeneratingEventID": 144317122,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146752874,
+  "GeneratingEventID": 144317122,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146752874,
+  "GeneratingEventID": 144317121,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 146773724,
+  "GeneratingEventID": 141416332,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 146874586,
+  "GeneratingEventID": 144317122,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146874586,
+  "GeneratingEventID": 144317121,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 146874587,
+  "GeneratingEventID": 144847406,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146874587,
+  "GeneratingEventID": 144847405,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 146874588,
+  "GeneratingEventID": 144847405,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 146874588,
+  "GeneratingEventID": 144847406,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146882182,
+  "GeneratingEventID": 142693361,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146882182,
+  "GeneratingEventID": 142693360,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 146882183,
+  "GeneratingEventID": 142693360,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 146882183,
+  "GeneratingEventID": 142693361,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146886320,
+  "GeneratingEventID": 142693361,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146886320,
+  "GeneratingEventID": 142693360,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 146897654,
+  "GeneratingEventID": 143221648,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 146961512,
+  "GeneratingEventID": 143995939,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146961512,
+  "GeneratingEventID": 143995938,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 146961513,
+  "GeneratingEventID": 143995938,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 146961513,
+  "GeneratingEventID": 143995939,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146964764,
+  "GeneratingEventID": 139794235,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146964765,
+  "GeneratingEventID": 140643678,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 146964893,
+  "GeneratingEventID": 142950601,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146964895,
+  "GeneratingEventID": 142950580,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146964950,
+  "GeneratingEventID": 143601438,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146965014,
+  "GeneratingEventID": 137682148,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146969851,
+  "GeneratingEventID": 142693360,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 146969851,
+  "GeneratingEventID": 142693361,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146993236,
+  "GeneratingEventID": 143995939,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146993236,
+  "GeneratingEventID": 143995938,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 146993961,
+  "GeneratingEventID": 144708745,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146998639,
+  "GeneratingEventID": 144040540,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147063292,
+  "GeneratingEventID": 142693361,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147063292,
+  "GeneratingEventID": 142693360,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147084899,
+  "GeneratingEventID": 140414937,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147117762,
+  "GeneratingEventID": 143485569,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147123495,
+  "GeneratingEventID": 142967361,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147181552,
+  "GeneratingEventID": 142367053,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147187412,
+  "GeneratingEventID": 144772928,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147189976,
+  "GeneratingEventID": 142362919,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147195896,
+  "GeneratingEventID": 142937019,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147199848,
+  "GeneratingEventID": 139144107,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147211038,
+  "GeneratingEventID": 144787581,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147228605,
+  "GeneratingEventID": 143215048,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147365136,
+  "GeneratingEventID": 144591184,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147669633,
+  "GeneratingEventID": 142050119,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147684510,
+  "GeneratingEventID": 143528882,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147739966,
+  "GeneratingEventID": 144772497,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147740025,
+  "GeneratingEventID": 144772493,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147749804,
+  "GeneratingEventID": 142696742,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147877146,
+  "GeneratingEventID": 141578116,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147877269,
+  "GeneratingEventID": 142691487,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147877292,
+  "GeneratingEventID": 142137865,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147877376,
+  "GeneratingEventID": 141909552,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147877460,
+  "GeneratingEventID": 142323384,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147877541,
+  "GeneratingEventID": 141903594,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147877719,
+  "GeneratingEventID": 142247476,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147890734,
+  "GeneratingEventID": 144462188,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147927151,
+  "GeneratingEventID": 144417718,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147927152,
+  "GeneratingEventID": 144140262,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148012942,
+  "GeneratingEventID": 142097569,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148099263,
+  "GeneratingEventID": 143106911,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148099263,
+  "GeneratingEventID": 143106909,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148099280,
+  "GeneratingEventID": 144001218,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148099282,
+  "GeneratingEventID": 143993649,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148106213,
+  "GeneratingEventID": 143658087,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148117396,
+  "GeneratingEventID": 148117314,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148135350,
+  "GeneratingEventID": 143753413,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148135417,
+  "GeneratingEventID": 143753674,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148188113,
+  "GeneratingEventID": 141365544,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148192660,
+  "GeneratingEventID": 142711953,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148192660,
+  "GeneratingEventID": 142711209,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148214979,
+  "GeneratingEventID": 143921600,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148291149,
+  "GeneratingEventID": 141240333,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148311363,
+  "GeneratingEventID": 143718802,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148399375,
+  "GeneratingEventID": 142575524,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148407273,
+  "GeneratingEventID": 143913753,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148407273,
+  "GeneratingEventID": 143913752,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148420300,
+  "GeneratingEventID": 142568869,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148423242,
+  "GeneratingEventID": 143660888,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148423243,
+  "GeneratingEventID": 143660889,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148455452,
+  "GeneratingEventID": 142644305,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148560604,
+  "GeneratingEventID": 133215030,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148560675,
+  "GeneratingEventID": 137158809,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148560680,
+  "GeneratingEventID": 122754416,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148560681,
+  "GeneratingEventID": 122949083,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148560706,
+  "GeneratingEventID": 141623566,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148560749,
+  "GeneratingEventID": 142993252,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148560832,
+  "GeneratingEventID": 144007265,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148560836,
+  "GeneratingEventID": 142943793,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148560852,
+  "GeneratingEventID": 123528792,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148560870,
+  "GeneratingEventID": 133304575,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148561354,
+  "GeneratingEventID": 144191896,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148561358,
+  "GeneratingEventID": 144207997,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148561375,
+  "GeneratingEventID": 144436794,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148561758,
+  "GeneratingEventID": 135024751,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148561759,
+  "GeneratingEventID": 135151619,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148561772,
+  "GeneratingEventID": 144012697,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148561972,
+  "GeneratingEventID": 137948202,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148561988,
+  "GeneratingEventID": 142327059,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148562358,
+  "GeneratingEventID": 142818049,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148562457,
+  "GeneratingEventID": 141884146,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148562498,
+  "GeneratingEventID": 142690750,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148562816,
+  "GeneratingEventID": 125266721,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148562818,
+  "GeneratingEventID": 124645001,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148562857,
+  "GeneratingEventID": 141246298,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148562863,
+  "GeneratingEventID": 144011282,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148562943,
+  "GeneratingEventID": 143093405,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148562985,
+  "GeneratingEventID": 144464137,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148562986,
+  "GeneratingEventID": 144114722,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148563023,
+  "GeneratingEventID": 141612124,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148563198,
+  "GeneratingEventID": 138895029,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148563337,
+  "GeneratingEventID": 145515174,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148563338,
+  "GeneratingEventID": 145517085,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148563551,
+  "GeneratingEventID": 145143757,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148563552,
+  "GeneratingEventID": 144124727,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148563598,
+  "GeneratingEventID": 144725373,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148563599,
+  "GeneratingEventID": 143671980,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148563873,
+  "GeneratingEventID": 122415129,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148563877,
+  "GeneratingEventID": 142932874,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148564448,
+  "GeneratingEventID": 137159992,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148564523,
+  "GeneratingEventID": 137408735,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148564524,
+  "GeneratingEventID": 137371479,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148564589,
+  "GeneratingEventID": 142446676,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148562334,
+  "GeneratingEventID": 143556550,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148562359,
+  "GeneratingEventID": 142818054,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148562388,
+  "GeneratingEventID": 134420722,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148562395,
+  "GeneratingEventID": 142142484,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148562677,
+  "GeneratingEventID": 143762059,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148562702,
+  "GeneratingEventID": 142894435,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148562730,
+  "GeneratingEventID": 140490370,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148562789,
+  "GeneratingEventID": 142420558,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148562823,
+  "GeneratingEventID": 113782787,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148562990,
+  "GeneratingEventID": 144850799,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148563029,
+  "GeneratingEventID": 144883930,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148563030,
+  "GeneratingEventID": 144758455,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148563124,
+  "GeneratingEventID": 134611893,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148563168,
+  "GeneratingEventID": 143691209,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148563170,
+  "GeneratingEventID": 143879462,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148563172,
+  "GeneratingEventID": 143867976,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148563224,
+  "GeneratingEventID": 128366391,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148563225,
+  "GeneratingEventID": 126388539,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148563503,
+  "GeneratingEventID": 143915325,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148563521,
+  "GeneratingEventID": 144110181,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148563522,
+  "GeneratingEventID": 144110862,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148563539,
+  "GeneratingEventID": 145143766,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148563540,
+  "GeneratingEventID": 144123758,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148563541,
+  "GeneratingEventID": 145143770,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148563542,
+  "GeneratingEventID": 144125993,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148563553,
+  "GeneratingEventID": 144197847,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148563554,
+  "GeneratingEventID": 144132885,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148563582,
+  "GeneratingEventID": 145143841,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148563583,
+  "GeneratingEventID": 144388589,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148563584,
+  "GeneratingEventID": 144407979,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148563822,
+  "GeneratingEventID": 143876824,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148563823,
+  "GeneratingEventID": 143826557,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148563824,
+  "GeneratingEventID": 143877129,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148563825,
+  "GeneratingEventID": 143826559,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148563826,
+  "GeneratingEventID": 143876891,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148563827,
+  "GeneratingEventID": 143826561,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148563949,
+  "GeneratingEventID": 132708944,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148563980,
+  "GeneratingEventID": 142304031,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148564121,
+  "GeneratingEventID": 126483879,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148564299,
+  "GeneratingEventID": 120643232,
+  "GeneratingEventCode": "CMO"
+ },
+ {
+  "ACMEventID": 148564343,
+  "GeneratingEventID": 144585372,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148564365,
+  "GeneratingEventID": 144585386,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148564369,
+  "GeneratingEventID": 144585418,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148564370,
+  "GeneratingEventID": 144585455,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148564371,
+  "GeneratingEventID": 144585392,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148564372,
+  "GeneratingEventID": 144585370,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148564374,
+  "GeneratingEventID": 144585491,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148564381,
+  "GeneratingEventID": 144585411,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148564382,
+  "GeneratingEventID": 144585371,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148564383,
+  "GeneratingEventID": 144585458,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148564384,
+  "GeneratingEventID": 144585486,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148564391,
+  "GeneratingEventID": 144585408,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148564394,
+  "GeneratingEventID": 144585431,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148564395,
+  "GeneratingEventID": 144585391,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148564396,
+  "GeneratingEventID": 144585393,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148564491,
+  "GeneratingEventID": 144447826,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148655038,
+  "GeneratingEventID": 144873049,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148655039,
+  "GeneratingEventID": 143982716,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148677560,
+  "GeneratingEventID": 144063157,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148677584,
+  "GeneratingEventID": 143309397,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148687604,
+  "GeneratingEventID": 143206842,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148703653,
+  "GeneratingEventID": 143013930,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148706831,
+  "GeneratingEventID": 144174478,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148710167,
+  "GeneratingEventID": 142065895,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148710170,
+  "GeneratingEventID": 142703847,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148710170,
+  "GeneratingEventID": 142703846,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148729620,
+  "GeneratingEventID": 144062843,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148745895,
+  "GeneratingEventID": 141886368,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148745896,
+  "GeneratingEventID": 141884960,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148745975,
+  "GeneratingEventID": 141617452,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148749543,
+  "GeneratingEventID": 143327642,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148750625,
+  "GeneratingEventID": 142247469,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148750716,
+  "GeneratingEventID": 126167539,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148750895,
+  "GeneratingEventID": 141710705,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148755398,
+  "GeneratingEventID": 140602805,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148778240,
+  "GeneratingEventID": 144486964,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148780433,
+  "GeneratingEventID": 142281747,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148785964,
+  "GeneratingEventID": 137759133,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149008017,
+  "GeneratingEventID": 141985228,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149009893,
+  "GeneratingEventID": 141575430,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149013052,
+  "GeneratingEventID": 141833050,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149014310,
+  "GeneratingEventID": 143909184,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149026227,
+  "GeneratingEventID": 142914954,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149028201,
+  "GeneratingEventID": 142880700,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149028391,
+  "GeneratingEventID": 141456976,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149042813,
+  "GeneratingEventID": 141939197,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149060777,
+  "GeneratingEventID": 130551219,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149224627,
+  "GeneratingEventID": 143761711,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149232051,
+  "GeneratingEventID": 141373495,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149234725,
+  "GeneratingEventID": 144576534,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 149234725,
+  "GeneratingEventID": 144576535,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149246506,
+  "GeneratingEventID": 128577906,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149257889,
+  "GeneratingEventID": 141179210,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149257912,
+  "GeneratingEventID": 138431613,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149257950,
+  "GeneratingEventID": 142247419,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149259702,
+  "GeneratingEventID": 143026460,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149267538,
+  "GeneratingEventID": 146939604,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149270285,
+  "GeneratingEventID": 140910402,
+  "GeneratingEventCode": "CMO"
+ },
+ {
+  "ACMEventID": 149272612,
+  "GeneratingEventID": 137866508,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149285869,
+  "GeneratingEventID": 144856978,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149285869,
+  "GeneratingEventID": 144856977,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 149285874,
+  "GeneratingEventID": 144176174,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 149285875,
+  "GeneratingEventID": 144176789,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149293020,
+  "GeneratingEventID": 143983813,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149293762,
+  "GeneratingEventID": 132018705,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149430587,
+  "GeneratingEventID": 143858030,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149531644,
+  "GeneratingEventID": 143141004,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149535014,
+  "GeneratingEventID": 143191325,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149551497,
+  "GeneratingEventID": 142797083,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 149576213,
+  "GeneratingEventID": 142453524,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149576233,
+  "GeneratingEventID": 141924555,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149581500,
+  "GeneratingEventID": 136207763,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149683649,
+  "GeneratingEventID": 143667383,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149759566,
+  "GeneratingEventID": 149641586,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149764322,
+  "GeneratingEventID": 142127603,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149770954,
+  "GeneratingEventID": 139976724,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149801403,
+  "GeneratingEventID": 143885868,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149802541,
+  "GeneratingEventID": 143374958,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149802542,
+  "GeneratingEventID": 143374956,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149804250,
+  "GeneratingEventID": 142748554,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149804251,
+  "GeneratingEventID": 142915973,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149869093,
+  "GeneratingEventID": 141171255,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150081813,
+  "GeneratingEventID": 143746721,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150092978,
+  "GeneratingEventID": 144465651,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150092979,
+  "GeneratingEventID": 145619523,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150093322,
+  "GeneratingEventID": 144105805,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150093476,
+  "GeneratingEventID": 143939637,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150288135,
+  "GeneratingEventID": 133194680,
+  "GeneratingEventCode": "CMO"
+ },
+ {
+  "ACMEventID": 150291786,
+  "GeneratingEventID": 136894740,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 150320432,
+  "GeneratingEventID": 143316067,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 150352745,
+  "GeneratingEventID": 125912216,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150359555,
+  "GeneratingEventID": 143346219,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 150363601,
+  "GeneratingEventID": 143588651,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150363602,
+  "GeneratingEventID": 143588649,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150365603,
+  "GeneratingEventID": 143876803,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150369316,
+  "GeneratingEventID": 145242230,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150369328,
+  "GeneratingEventID": 144112297,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150369348,
+  "GeneratingEventID": 144875239,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 150369349,
+  "GeneratingEventID": 143862472,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150461887,
+  "GeneratingEventID": 142744830,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 146746754,
+  "GeneratingEventID": 143370666,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146761733,
+  "GeneratingEventID": 146045029,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 146833682,
+  "GeneratingEventID": 130624753,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 146833683,
+  "GeneratingEventID": 130866511,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146879123,
+  "GeneratingEventID": 143366616,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 146882548,
+  "GeneratingEventID": 143683849,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146882548,
+  "GeneratingEventID": 143683848,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 146882549,
+  "GeneratingEventID": 143683848,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 146882549,
+  "GeneratingEventID": 143683849,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146895790,
+  "GeneratingEventID": 143889865,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 146895794,
+  "GeneratingEventID": 143977868,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 146895796,
+  "GeneratingEventID": 143889874,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 146895797,
+  "GeneratingEventID": 143977534,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 146899664,
+  "GeneratingEventID": 143003434,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 146899665,
+  "GeneratingEventID": 143003439,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 146928069,
+  "GeneratingEventID": 143683849,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146928069,
+  "GeneratingEventID": 143683848,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 146928886,
+  "GeneratingEventID": 143242080,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 146957372,
+  "GeneratingEventID": 137536753,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 146961381,
+  "GeneratingEventID": 142788775,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 146961382,
+  "GeneratingEventID": 143166138,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146963645,
+  "GeneratingEventID": 143040971,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146964045,
+  "GeneratingEventID": 135349998,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146964046,
+  "GeneratingEventID": 135349998,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146965025,
+  "GeneratingEventID": 143741817,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146967774,
+  "GeneratingEventID": 141366070,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146968190,
+  "GeneratingEventID": 144133527,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146968327,
+  "GeneratingEventID": 145667782,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 146968806,
+  "GeneratingEventID": 144197245,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147012460,
+  "GeneratingEventID": 135349998,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147019241,
+  "GeneratingEventID": 135349998,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147057724,
+  "GeneratingEventID": 145385006,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147095895,
+  "GeneratingEventID": 143683848,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147095895,
+  "GeneratingEventID": 143683849,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147095935,
+  "GeneratingEventID": 143683849,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147095935,
+  "GeneratingEventID": 143683848,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147113499,
+  "GeneratingEventID": 143936572,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147113516,
+  "GeneratingEventID": 144996754,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147123548,
+  "GeneratingEventID": 143377295,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147130693,
+  "GeneratingEventID": 143683848,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147130693,
+  "GeneratingEventID": 143683849,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147148552,
+  "GeneratingEventID": 143683849,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147148552,
+  "GeneratingEventID": 143683848,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147148576,
+  "GeneratingEventID": 143683848,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147148576,
+  "GeneratingEventID": 143683849,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147148846,
+  "GeneratingEventID": 143683849,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147148846,
+  "GeneratingEventID": 143683848,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147148850,
+  "GeneratingEventID": 143683848,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147148850,
+  "GeneratingEventID": 143683849,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147149046,
+  "GeneratingEventID": 143683849,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147149046,
+  "GeneratingEventID": 143683848,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147159865,
+  "GeneratingEventID": 143683848,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147159865,
+  "GeneratingEventID": 143683849,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147170673,
+  "GeneratingEventID": 143017348,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147170748,
+  "GeneratingEventID": 143017364,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147172793,
+  "GeneratingEventID": 135349998,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147172815,
+  "GeneratingEventID": 135349998,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147172816,
+  "GeneratingEventID": 135349998,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147172995,
+  "GeneratingEventID": 135349998,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147172997,
+  "GeneratingEventID": 135349998,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147176265,
+  "GeneratingEventID": 136911531,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147177802,
+  "GeneratingEventID": 143997356,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147187657,
+  "GeneratingEventID": 142961796,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147187660,
+  "GeneratingEventID": 143023976,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147188208,
+  "GeneratingEventID": 143681229,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147192204,
+  "GeneratingEventID": 141172999,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147193605,
+  "GeneratingEventID": 142149885,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147197726,
+  "GeneratingEventID": 143683849,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147197726,
+  "GeneratingEventID": 143683848,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147227097,
+  "GeneratingEventID": 143683848,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147227097,
+  "GeneratingEventID": 143683849,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147227861,
+  "GeneratingEventID": 143683849,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147227861,
+  "GeneratingEventID": 143683848,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147227872,
+  "GeneratingEventID": 143683848,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147227872,
+  "GeneratingEventID": 143683849,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228366,
+  "GeneratingEventID": 143238980,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228463,
+  "GeneratingEventID": 143553045,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228502,
+  "GeneratingEventID": 143590348,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228559,
+  "GeneratingEventID": 143417511,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228591,
+  "GeneratingEventID": 145666033,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228647,
+  "GeneratingEventID": 142939215,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228759,
+  "GeneratingEventID": 143414641,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228848,
+  "GeneratingEventID": 145815060,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228900,
+  "GeneratingEventID": 145666522,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228913,
+  "GeneratingEventID": 143212701,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228918,
+  "GeneratingEventID": 143759670,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228947,
+  "GeneratingEventID": 143414402,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228955,
+  "GeneratingEventID": 145814321,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147228974,
+  "GeneratingEventID": 143423752,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147229051,
+  "GeneratingEventID": 143417394,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147241743,
+  "GeneratingEventID": 135349998,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147241744,
+  "GeneratingEventID": 135349998,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147242546,
+  "GeneratingEventID": 147242505,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147483851,
+  "GeneratingEventID": 142562948,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147518839,
+  "GeneratingEventID": 136561950,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147518840,
+  "GeneratingEventID": 147172800,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147658030,
+  "GeneratingEventID": 142135304,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147751716,
+  "GeneratingEventID": 141533606,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 147877273,
+  "GeneratingEventID": 141903918,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147877407,
+  "GeneratingEventID": 141860652,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147877715,
+  "GeneratingEventID": 142578065,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147886605,
+  "GeneratingEventID": 143868767,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147886650,
+  "GeneratingEventID": 143585949,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 147923162,
+  "GeneratingEventID": 144761684,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147923598,
+  "GeneratingEventID": 143704723,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147978399,
+  "GeneratingEventID": 139009466,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 147978424,
+  "GeneratingEventID": 140441368,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148099206,
+  "GeneratingEventID": 142947357,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148099207,
+  "GeneratingEventID": 142947360,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148099254,
+  "GeneratingEventID": 145993794,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148099284,
+  "GeneratingEventID": 144001217,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148099286,
+  "GeneratingEventID": 143993648,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148105759,
+  "GeneratingEventID": 141559391,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148143023,
+  "GeneratingEventID": 142804251,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148143024,
+  "GeneratingEventID": 142916553,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148146203,
+  "GeneratingEventID": 145042010,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148153637,
+  "GeneratingEventID": 139213109,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148163624,
+  "GeneratingEventID": 143531198,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148163672,
+  "GeneratingEventID": 144584702,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148163673,
+  "GeneratingEventID": 144566220,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148164656,
+  "GeneratingEventID": 142690727,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148164656,
+  "GeneratingEventID": 142690726,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148185268,
+  "GeneratingEventID": 142137869,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148194788,
+  "GeneratingEventID": 142922790,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148229987,
+  "GeneratingEventID": 141835958,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148229987,
+  "GeneratingEventID": 141835960,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148372363,
+  "GeneratingEventID": 147197890,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148407209,
+  "GeneratingEventID": 142920142,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148407209,
+  "GeneratingEventID": 142920144,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148409102,
+  "GeneratingEventID": 132916823,
+  "GeneratingEventCode": "CMO"
+ },
+ {
+  "ACMEventID": 148414972,
+  "GeneratingEventID": 144438853,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148414973,
+  "GeneratingEventID": 144153296,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148416235,
+  "GeneratingEventID": 143862895,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148423240,
+  "GeneratingEventID": 143998338,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148423240,
+  "GeneratingEventID": 143998339,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148423241,
+  "GeneratingEventID": 142935226,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148423241,
+  "GeneratingEventID": 142935227,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148423262,
+  "GeneratingEventID": 144175778,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148423264,
+  "GeneratingEventID": 144175779,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148436719,
+  "GeneratingEventID": 143134463,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148455448,
+  "GeneratingEventID": 144388620,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148673084,
+  "GeneratingEventID": 140958455,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148673085,
+  "GeneratingEventID": 143510857,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148673211,
+  "GeneratingEventID": 144034609,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148687547,
+  "GeneratingEventID": 140450171,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148699502,
+  "GeneratingEventID": 143669227,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148741440,
+  "GeneratingEventID": 142429206,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148742996,
+  "GeneratingEventID": 143025522,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148748319,
+  "GeneratingEventID": 142983417,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148748430,
+  "GeneratingEventID": 143364039,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148749431,
+  "GeneratingEventID": 143879397,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148750595,
+  "GeneratingEventID": 142247303,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148770058,
+  "GeneratingEventID": 142459320,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148772058,
+  "GeneratingEventID": 138127176,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148780406,
+  "GeneratingEventID": 142359290,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148780420,
+  "GeneratingEventID": 138216349,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148780432,
+  "GeneratingEventID": 142720863,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148908505,
+  "GeneratingEventID": 142735861,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149003242,
+  "GeneratingEventID": 142714914,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149013021,
+  "GeneratingEventID": 142105806,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149013022,
+  "GeneratingEventID": 142105209,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149013203,
+  "GeneratingEventID": 142104556,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149013204,
+  "GeneratingEventID": 142103566,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149013205,
+  "GeneratingEventID": 142106607,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149015218,
+  "GeneratingEventID": 142169424,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149027059,
+  "GeneratingEventID": 144477633,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 149027059,
+  "GeneratingEventID": 144477634,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149219727,
+  "GeneratingEventID": 148778016,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149234724,
+  "GeneratingEventID": 144576702,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 149234724,
+  "GeneratingEventID": 144576703,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149234727,
+  "GeneratingEventID": 144576647,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 149234727,
+  "GeneratingEventID": 144576648,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149235619,
+  "GeneratingEventID": 144996960,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 149248156,
+  "GeneratingEventID": 125248777,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149249551,
+  "GeneratingEventID": 133864383,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149257883,
+  "GeneratingEventID": 139498161,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149257905,
+  "GeneratingEventID": 141414132,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149257998,
+  "GeneratingEventID": 142030635,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149292484,
+  "GeneratingEventID": 143409796,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149292699,
+  "GeneratingEventID": 142703767,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149456806,
+  "GeneratingEventID": 143571958,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149502990,
+  "GeneratingEventID": 144200983,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149505723,
+  "GeneratingEventID": 144015571,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149505724,
+  "GeneratingEventID": 144015575,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149514939,
+  "GeneratingEventID": 143510479,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149523067,
+  "GeneratingEventID": 144217756,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149531693,
+  "GeneratingEventID": 144717896,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149534925,
+  "GeneratingEventID": 144064107,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149534932,
+  "GeneratingEventID": 145043458,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149534933,
+  "GeneratingEventID": 144654667,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149551668,
+  "GeneratingEventID": 144178398,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149551670,
+  "GeneratingEventID": 144191877,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149687109,
+  "GeneratingEventID": 147393124,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149687110,
+  "GeneratingEventID": 144033222,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149764260,
+  "GeneratingEventID": 142998857,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149764261,
+  "GeneratingEventID": 142998865,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149776467,
+  "GeneratingEventID": 142780238,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149778119,
+  "GeneratingEventID": 144099234,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149778120,
+  "GeneratingEventID": 143934277,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149778121,
+  "GeneratingEventID": 143939099,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149785626,
+  "GeneratingEventID": 142977978,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 149785627,
+  "GeneratingEventID": 142716115,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149785627,
+  "GeneratingEventID": 142716114,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 149801283,
+  "GeneratingEventID": 144200977,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149808994,
+  "GeneratingEventID": 143722677,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149811027,
+  "GeneratingEventID": 144011284,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 149811072,
+  "GeneratingEventID": 142982043,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 149851859,
+  "GeneratingEventID": 140478004,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150081779,
+  "GeneratingEventID": 142766416,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150081780,
+  "GeneratingEventID": 142766875,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150081814,
+  "GeneratingEventID": 147357181,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 150093472,
+  "GeneratingEventID": 144617513,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150093473,
+  "GeneratingEventID": 144618122,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150093474,
+  "GeneratingEventID": 143991316,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150093475,
+  "GeneratingEventID": 143993885,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150220028,
+  "GeneratingEventID": 143349283,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150323619,
+  "GeneratingEventID": 132677033,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150345448,
+  "GeneratingEventID": 141867854,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 150346271,
+  "GeneratingEventID": 133724295,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150351097,
+  "GeneratingEventID": 139066014,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 150358925,
+  "GeneratingEventID": 134945499,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150359463,
+  "GeneratingEventID": 143921694,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150577347,
+  "GeneratingEventID": 145384948,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150630176,
+  "GeneratingEventID": 145348208,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 150630176,
+  "GeneratingEventID": 145348212,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150630179,
+  "GeneratingEventID": 143894294,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150733072,
+  "GeneratingEventID": 143031920,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 150745321,
+  "GeneratingEventID": 143533698,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 150745322,
+  "GeneratingEventID": 143579819,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 150745926,
+  "GeneratingEventID": 143687138,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 150745926,
+  "GeneratingEventID": 143687140,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150757909,
+  "GeneratingEventID": 144064087,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150771164,
+  "GeneratingEventID": 142710097,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150793379,
+  "GeneratingEventID": 144467784,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 150803177,
+  "GeneratingEventID": 142780288,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150818188,
+  "GeneratingEventID": 143489898,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 150863744,
+  "GeneratingEventID": 142987179,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150863797,
+  "GeneratingEventID": 144556491,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 150863806,
+  "GeneratingEventID": 144877423,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151080847,
+  "GeneratingEventID": 142780490,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 151080878,
+  "GeneratingEventID": 145337633,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 151112648,
+  "GeneratingEventID": 144175241,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151113072,
+  "GeneratingEventID": 144175900,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151113219,
+  "GeneratingEventID": 144175053,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151113682,
+  "GeneratingEventID": 144174595,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151113691,
+  "GeneratingEventID": 144174847,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151139723,
+  "GeneratingEventID": 144114997,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 151149141,
+  "GeneratingEventID": 144560927,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151149141,
+  "GeneratingEventID": 144560926,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 151191948,
+  "GeneratingEventID": 127853070,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151319700,
+  "GeneratingEventID": 143145668,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151348332,
+  "GeneratingEventID": 143001781,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151391099,
+  "GeneratingEventID": 136998277,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 151631393,
+  "GeneratingEventID": 141398183,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151631408,
+  "GeneratingEventID": 139631578,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151632302,
+  "GeneratingEventID": 142442458,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 151632303,
+  "GeneratingEventID": 142436384,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 151632305,
+  "GeneratingEventID": 142436378,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 151632334,
+  "GeneratingEventID": 144412498,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 151632362,
+  "GeneratingEventID": 142658681,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 151937490,
+  "GeneratingEventID": 143727642,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 151937630,
+  "GeneratingEventID": 143725867,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 152211376,
+  "GeneratingEventID": 144644769,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 152211377,
+  "GeneratingEventID": 143183477,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 152215214,
+  "GeneratingEventID": 140960939,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 152425092,
+  "GeneratingEventID": 143136208,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 152472861,
+  "GeneratingEventID": 144392157,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 152499364,
+  "GeneratingEventID": 144707488,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 152711664,
+  "GeneratingEventID": 149003175,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 153465806,
+  "GeneratingEventID": 144693468,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 153465807,
+  "GeneratingEventID": 145172932,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 153528123,
+  "GeneratingEventID": 144621992,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 153624779,
+  "GeneratingEventID": 153317862,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 153624831,
+  "GeneratingEventID": 143156497,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 153755550,
+  "GeneratingEventID": 144022255,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 153755553,
+  "GeneratingEventID": 143703010,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 153755554,
+  "GeneratingEventID": 142803853,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 153755555,
+  "GeneratingEventID": 142947301,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 153774850,
+  "GeneratingEventID": 153774655,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 153779236,
+  "GeneratingEventID": 144639863,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 153779238,
+  "GeneratingEventID": 143697118,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 154020791,
+  "GeneratingEventID": 154020272,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 154307219,
+  "GeneratingEventID": 144604289,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 154812381,
+  "GeneratingEventID": 143990334,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 154812382,
+  "GeneratingEventID": 143990336,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 154826010,
+  "GeneratingEventID": 143761021,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148455449,
+  "GeneratingEventID": 144520861,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148465667,
+  "GeneratingEventID": 142343918,
+  "GeneratingEventCode": "CMR"
+ },
+ {
+  "ACMEventID": 148475796,
+  "GeneratingEventID": 144044240,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148475796,
+  "GeneratingEventID": 144041296,
+  "GeneratingEventCode": "GEN"
+ },
+ {
+  "ACMEventID": 148476847,
+  "GeneratingEventID": 144306248,
+  "GeneratingEventCode": "CMG"
+ },
+ {
+  "ACMEventID": 148476847,
+  "GeneratingEventID": 144306247,
+  "GeneratingEventCode": "GEN"
+ }
+]
