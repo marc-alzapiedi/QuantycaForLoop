@@ -3,6 +3,7 @@ import quantycaList from './AMC_EVENT_IDs.json' with { type: "json" }
 
 const app = express();
 const port = 3000;
+// console.log(quantycaList.length)
 
 app.get('/processQuantycaList/:TransportOrdersEventID', (req, res) => {
     const TransportOrdersEventID = req.params.TransportOrdersEventID;
@@ -18,7 +19,8 @@ app.get('/processQuantycaList/:TransportOrdersEventID', (req, res) => {
     const summary = {
         total: result.length,
         validCount: result.filter(x => x.isValid).length,
-        invalidCount: result.filter(x => !x.isValid).length
+        invalidCount: result.filter(x => !x.isValid).length,
+        quantycaListLength: quantycaList.length
     }
 
     res.json(summary)
